@@ -1,0 +1,42 @@
+knowledge base 
+
+  
+
+BIL      ID                    KETARAGAN 
+
+                ERROR INTERNRT 
+
+1)  ERROR 404        |	       FILE NOT FOUND	
+2)  ERROR 500        |         INTERNAL SERVER ERROR              
+3)  ERROR 502        |         BAD GATEWAY ERROR
+4)  ERROR 503        |         SERVICE UNVAILABLE ERROR
+5)  ERROR 504        |         GATEWAY TIMEOUT ERROR
+6)  ERROR 401        |         UNAUTHORIZE
+7)  ERROR 402        |         PAYMENT REQUIRED
+8)  ERROR 403        |         FORBIDDEN
+9)  ERROR 405        |         METHOD NOT ALLOWED
+10) ERROR 407        |         PROXY AUTHENTICATION REQUIRED
+11) ERROR 408	     |	       REQUEST TIMEOUT
+12) ERROR 412        |	       PRECONDITION FAILED
+13) ERROR 415        |         UNSUPPORTED MEDIA TYPE
+14) ERROR 421        |	       MISDIRECTED REQUEST
+15) ERROR 429        |         TOO MANY REQUEST
+16) ERROR 505        |         HTTP VERSION NOT SUPPORTED
+17) ERROR 511        |         NETWORK AUTHENTICATION REQUIRED
+18) ERROR 507        |         INSUFFICIENT STORAGE     
+19) ERROR 419        |         PAGE EXPIRED
+
+              CODDING ERROR
+
+1)SYTAX ERROR                C.T.H-({},;,<>,/,"",(),[])
+2)LOGIC ERROR 
+
+
+
+
+
+
+
+
+
+
